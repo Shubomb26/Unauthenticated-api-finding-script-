@@ -1,7 +1,6 @@
 # 1. Create your endpoint list (full URLs, one per line)
 cat > endpoints.txt << 'EOF'
-https://ircmsv2.ril.com/api/CMS_NJ_Certification/1.0.0/getErrorCertificate
-https://ircmsv2.ril.com/api/CMS_NC_Compliance/1.0.0/GetBFRUpdatedDate
+
 ...
 EOF
  
